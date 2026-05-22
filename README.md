@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/buy-dirt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Buy Dirt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buy-dirt/) |
+| **Get License** | [License this song: Buy Dirt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buy-dirt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ff4a32d7434c047d7338c29eb4042a6b893d585a1c144e0f2615f87142fda98` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Buy Dirt
+
+This log tracks the cryptographic history and versioning for the song **Buy Dirt** (buy-dirt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:14:38.859808 | `v1` | `2ff4a32d7434c047d7338c29eb4042a6b893d585a1c144e0f2615f87142fda98` | `3e635fbd1293a7599278f663857b2e3a5c4fb93015acea6db3c8e22527e7b720` | `2026-05-23_buy-dirt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
