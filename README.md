@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/buy-dirt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Buy Dirt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buy-dirt/) |
+| **Get License** | [Obtain a Music License for Buy Dirt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buy-dirt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit c0724510590b1535d9104327a0eda8128dee72ab
+> Pull up to my cabin in the dead of night
+> I want to feel your body in the firelight
+> We could buy some dirt and find a private space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
